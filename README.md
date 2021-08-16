@@ -1,2 +1,2 @@
-# react-app-to-know-emoji-s
+# react-app-to-know-emoji
 Created with CodeSandbox
